@@ -81,3 +81,4 @@ end
 return Inventory
 
 -- Testing VS Code to Rojo synchronization
+-- Inventory redesign experiment
