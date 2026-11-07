@@ -1,0 +1,42 @@
+{
+  "name": "DetectiveGame",
+  "tree": {
+    "$className": "DataModel",
+
+    "Workspace": {
+      "$path": "src/Workspace"
+    },
+
+    "ReplicatedStorage": {
+      "$path": "src/ReplicatedStorage"
+    },
+
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+
+    "ServerStorage": {
+      "$path": "src/ServerStorage"
+    },
+
+    "StarterGui": {
+      "$path": "src/StarterGui"
+    },
+
+    "StarterPack": {
+      "$path": "src/StarterPack"
+    },
+
+    "StarterPlayer": {
+      "$path": "src/StarterPlayer"
+    },
+
+    "ReplicatedFirst": {
+      "$path": "src/ReplicatedFirst"
+    },
+
+    "Lighting": {
+      "$path": "src/Lighting"
+    }
+  }
+}
